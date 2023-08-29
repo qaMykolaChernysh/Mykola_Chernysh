@@ -3,7 +3,7 @@
 ## I'm a QA Engineer.
 
 ## My CV
-[Link to my CV]([https://github.com/qaMykolaChernysh/Mykola_Chernysh/blob/main/%5BCV%5DQA_MYKOLA_CHERNYSH.en.pdf](https://www.figma.com/proto/0FoQetDJtuSBWVVDc6mbnT/Untitled?type=design&node-id=2-2&t=GRcaVrOxhBALJxgr-1&scaling=min-zoom&page-id=0%3A1&mode=design))
+[Link to my CV]([https://github.com/qaMykolaChernysh/Mykola_Chernysh/blob/main/%5BCV%5DQA_MYKOLA_CHERNYSH.en.pdf])
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
