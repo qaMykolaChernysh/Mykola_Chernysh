@@ -1,6 +1,5 @@
 [![Header](https://github.com/qaMykolaChernysh/Mykola_Chernysh/blob/main/CHp.jpg)]()
-# My name is Mykola Chernysh.
-## I'm a QA Engineer.
+# Mykola Chernysh ## QA Engineer
 
 ## My CV
 [Link to my CV](https://www.figma.com/proto/0FoQetDJtuSBWVVDc6mbnT/Untitled?type=design&node-id=2-2&t=GRcaVrOxhBALJxgr-1&scaling=min-zoom&page-id=0%3A1&mode=design)
