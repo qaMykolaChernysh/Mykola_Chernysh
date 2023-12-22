@@ -6,6 +6,11 @@ ___
 
 ## SUMMARY
 As an experienced software tester, I excel in manual testing and using various methodologies for top-notch quality. My goal is to enhance testing processes and deliver high-quality products. I'm a collaborative team player, always eager to learn and stay updated with the latest trends. My strengths include analytical and communication skills, and I thrive in fast-paced environments. I'm seeking an opportunity to join a professional team where I can make a real difference in ensuring successful product delivery to the market.
+
+___
+
+## Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykola-chernysh-94b95a282/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.mykola.chernysh@gmail.com)
+
 ## My CV
 [Link to my CV]()
 
