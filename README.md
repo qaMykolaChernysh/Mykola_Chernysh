@@ -9,7 +9,7 @@ As an experienced software tester, I excel in manual testing and using various m
 
 ___
 
-## Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@qa.Mykola.Chernysh-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykola-chernysh-94b95a282/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.mykola.chernysh@gmail.com)
+## Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@qaMykolaChernysh-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykola-chernysh-94b95a282/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.mykola.chernysh@gmail.com)
 
 ## My CV
 [Link to my CV]()
