@@ -1,9 +1,10 @@
 [![Header](https://github.com/qaMykolaChernysh/Mykola_Chernysh/blob/main/CHp.jpg)]()
 # Mykola Chernysh 
 ## QA Engineer
-
+# SUMMARY
+As an experienced software tester, I excel in manual testing and using various methodologies for top-notch quality. My goal is to enhance testing processes and deliver high-quality products. I'm a collaborative team player, always eager to learn and stay updated with the latest trends. My strengths include analytical and communication skills, and I thrive in fast-paced environments. I'm seeking an opportunity to join a professional team where I can make a real difference in ensuring successful product delivery to the market.
 ## My CV
-[Link to my CV](https://www.figma.com/proto/0FoQetDJtuSBWVVDc6mbnT/Untitled?type=design&node-id=2-2&t=GRcaVrOxhBALJxgr-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+[Link to my CV]()
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
