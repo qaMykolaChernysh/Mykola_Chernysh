@@ -38,4 +38,4 @@ ___
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
-- Project "CONDUIT" [Postman Collections](https://api.postman.com/collections/27171467-a31adb44-57fb-4b99-92ff-af314113fd59?access_key=PMAT-01HJ7HHD4Z7Q11TMPDYQ5ZPYB6)
+- Postman Collections [CONDUIT](https://api.postman.com/collections/27171467-a31adb44-57fb-4b99-92ff-af314113fd59?access_key=PMAT-01HJ7HHD4Z7Q11TMPDYQ5ZPYB6)
