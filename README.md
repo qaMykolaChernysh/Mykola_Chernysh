@@ -14,7 +14,7 @@ ___
 ___
 
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://www.figma.com/proto/ezuWi3wOEWUwtfQScFXKa1/Untitled?type=design&node-id=16-2&t=FQDowbw4dcsgn1GR-0&scaling=min-zoom&page-id=0%3A1)
 
 ___
 
