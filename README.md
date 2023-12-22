@@ -29,7 +29,7 @@ ___
 ![Header](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=blue)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=71b556)
-![Header](https://img.shields.io/badge/GPT-090909?style=for-the-badge&logo=gpt&logoColor=wite)
+![Header](https://img.shields.io/badge/ChatGPT-090909?style=for-the-badge&logo=ChatGPT&logoColor=wite)
 ### Testing Documentation
 
 - [Checklists]()
