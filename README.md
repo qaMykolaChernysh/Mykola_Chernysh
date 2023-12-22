@@ -34,7 +34,7 @@ ___
 
 ### Testing Documentation
 
-- [Checklists]([https://docs.google.com/spreadsheets/d/1Xt2m9-HvyXUFxPlQEBahH6J_hhF5dJS12oM9t62H4Fo/edit?usp=sharing](https://drive.google.com/drive/folders/1EIsMUYT-bU4eGYH5GB3ypOTqa764nEQ7?usp=sharing))
+- [Checklists](https://drive.google.com/drive/folders/1EIsMUYT-bU4eGYH5GB3ypOTqa764nEQ7?usp=sharing)
 - [Test-Suites and Test-Cases]()
 - [Bug-Reports]()
 - [SQL Queries]()
