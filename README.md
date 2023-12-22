@@ -9,7 +9,7 @@ As an experienced software tester, I excel in manual testing and using various m
 
 ___
 
-## Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@qaMykolaChernysh-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykola-chernysh-94b95a282/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.mykola.chernysh@gmail.com) [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png)](https://web.telegram.org/k/#@DT88D)]
+## Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@qaMykolaChernysh-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mykola-chernysh-94b95a282/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.mykola.chernysh@gmail.com) [![Telegram](img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@DT88D)]
 
 ___
 
